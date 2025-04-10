@@ -29,6 +29,29 @@ Resource Terraform для Yandex Cloud:
 - [Route table](https://registry.terraform.io/providers/yandex-cloud/yandex/latest/docs/resources/vpc_route_table).
 - [Compute Instance](https://registry.terraform.io/providers/yandex-cloud/yandex/latest/docs/resources/compute_instance).
 
+
+[Манифесты](/src)
+
+Терраформ аплай
+![](img/0.png)
+
+![](img/1.png)
+
+![](img/2.png)
+
+![](img/3.png)
+
+![](img/4.png)
+
+![](img/5.png)
+
+Пинг с public машины
+
+![](img/6.png)
+
+Пинг с private машины
+
+![](img/7.png)
 ---
 ### Задание 2. AWS* (задание со звёздочкой)
 
